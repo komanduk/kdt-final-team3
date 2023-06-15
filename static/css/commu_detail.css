@@ -117,14 +117,12 @@
 }
 
 .commu_post {
+  padding: 16px 20px;
   display: flex;
   flex-direction: column;
   gap: 12px;
-  width: 94%;
+  width: 100%;
   background-color: white;
-  /* border-bottom: 1px solid rgb(232, 231, 224); */
-  position: relative;
-  margin:15px;
   border-radius: 10px;
 }
 
