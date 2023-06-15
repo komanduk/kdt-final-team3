@@ -28,7 +28,7 @@ load_dotenv()
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://port-0-team3-koh2xliwpj9s5.sel4.cloudtype.app/', '127.0.0.1']
 
 
 # Application definition
